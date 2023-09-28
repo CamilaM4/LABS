@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Personal portfolio</title>
+    </head>
+  <body>
+  <h1 style="background-color:powderblue;">Camila Meza</h1>
+    <h3 style="background-color:rgb(181, 205, 210);">NJIT,cm662,Architecture</h3>
+  <p style="color:red;">My name is Camila Meza, I am a sophmore pursuing the 5-year Architecture program. I was born and raised in Queens, NY and then 5 years ago I moved to New Jersey. I am Colombian, I go to Colombia every year to visit my family and travel around the country. I love traveling and music, one of my favorite hobbies are djing. </p>
+  <hr>
+  <a href=>https://www.njit.edu/advising/hillier-college-architecture-and-design-hcad</a>
+
+  <img src="C:\Users\camim\Downloads\1C0A8A45-0C78-4BB4-88E4-2F828C292B00.jpeg" width="460">
+  </body>
+</html>
